@@ -1,4 +1,4 @@
-# SIT307 Group 2  
+# SIT307 Group Assignment 2  - Data Mining
 
 Assignment 2 for Data Mining  
 Dataset: 
